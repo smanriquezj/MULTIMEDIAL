@@ -2,7 +2,6 @@
 
 #### Exploración creativa de arte, tecnología y medios digitales interactivos
 ```
-
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
@@ -71,3 +70,4 @@ MULTIMEDIAL
 
 </html>
 <!-- Fin del documento HTML -->
+```
