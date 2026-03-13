@@ -1,6 +1,10 @@
 # MULTIMEDIAL
 
 #### Exploración creativa de arte, tecnología y medios digitales interactivos
+
+13/03
+Ejercicio 1
+
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
