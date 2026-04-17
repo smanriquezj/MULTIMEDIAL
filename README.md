@@ -80,3 +80,63 @@ MULTIMEDIAL
 </html>
 <!-- Fin del documento HTML -->
 ```
+
+17/04
+
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Mi pagina</title>
+
+<style>
+body{
+  background-color: white;
+  color: blanck;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h1{
+  font-size: 90px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+img{
+  width: 30%;
+  height: auto;
+  display: block;
+  text-align: center;
+  margin: 10px auto 30px auto;
+}
+
+a{
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  margin: 0 40px;
+}
+
+
+</style>
+
+</head>
+<body>
+
+<h1>This is My sitio</h1>
+
+<!-- <a href="pagina2.html">Ir a la segunda página</a>-->
+
+<a href="obra.html">Obra</a><br>
+
+<a href="contacto.html">Contacto</a>
+</body>
+
+</html>
+
+´´´
